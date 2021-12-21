@@ -1,0 +1,23 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i3arsu/PI_Zadaca.git"
+  },
+  "author": "Luka Sever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i3arsu/PI_Zadaca/issues"
+  },
+  "homepage": "https://github.com/i3arsu/PI_Zadaca#readme"
+}
